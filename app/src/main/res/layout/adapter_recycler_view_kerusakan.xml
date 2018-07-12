@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp" />
+    <TextView
+        android:id="@+id/txt_namakerusakan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_toEndOf="@id/image"
+        android:layout_marginStart="10dp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="nama"/>
+    <TextView
+        android:id="@+id/text_jenis_kerusakan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_namakerusakan"
+        android:layout_toEndOf="@id/image"
+        android:layout_marginStart="10dp"
+        android:text="Tingkat kerusakan :"/>
+    <TextView
+        android:id="@+id/txt_jenis_kerusakan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_namakerusakan"
+        android:layout_toEndOf="@id/text_jenis_kerusakan"
+        android:layout_marginStart="10dp" />
+
+    <TextView
+        android:id="@+id/txt_id_kerusakan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/txt_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/txt_solusi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/txt_gambar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+</RelativeLayout>

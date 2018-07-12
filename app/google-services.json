@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "35043867771",
+    "firebase_url": "https://troublefix-88437.firebaseio.com",
+    "project_id": "troublefix-88437",
+    "storage_bucket": "troublefix-88437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35043867771:android:7ae528de56bf1e44",
+        "android_client_info": {
+          "package_name": "com.universedeveloper.eeq.admintroublefix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35043867771-4hbpm0of8m084qhgolaqonbdu98t88cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universedeveloper.eeq.admintroublefix",
+            "certificate_hash": "61a4e63b4de490475d84783265220bb2cfb65ed0"
+          }
+        },
+        {
+          "client_id": "35043867771-92kegvf99vfi25gm6q8uq83fglcn7ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAslggrllKsWIP2KYrNwLbarf89b8fK5TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35043867771-92kegvf99vfi25gm6q8uq83fglcn7ors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35043867771:android:061cf997406e0e7b",
+        "android_client_info": {
+          "package_name": "com.universedeveloper.eeq.troubleshootinglaptopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35043867771-jrneboesh3rrjflu5itt4tcmhvdrr1ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universedeveloper.eeq.troubleshootinglaptopapp",
+            "certificate_hash": "61a4e63b4de490475d84783265220bb2cfb65ed0"
+          }
+        },
+        {
+          "client_id": "35043867771-92kegvf99vfi25gm6q8uq83fglcn7ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAslggrllKsWIP2KYrNwLbarf89b8fK5TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35043867771-92kegvf99vfi25gm6q8uq83fglcn7ors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
